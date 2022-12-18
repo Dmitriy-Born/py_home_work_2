@@ -52,3 +52,6 @@ if task == 14:
     while 2**i < K:
         print (2**i)
         i += 1
+
+else:
+    print("Такой задачи не делали")
